@@ -61,6 +61,16 @@ Steps:
 
 ---
 
+## Graphical output
+
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/5391b56b-4973-40eb-ad59-b4452e39128a" />
+
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/c6fb8001-6994-4956-bd99-220b30328a05" />
+
+## Theoretical output
+
+<img width="813" height="1280" alt="image" src="https://github.com/user-attachments/assets/cbbf9af9-b576-40e4-be45-5842c2bf1188" />
+
 ## Report
 Your report should include:
 - Pre-lab calculations (attach handwritten work if applicable).  
@@ -68,6 +78,11 @@ Your report should include:
   - Power readings  
   - BER analyzer output  
   - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
+- Discussion of differences between analytical and simulation results.
+
+## Result 
+
+The receiver sensitivity obtained analytically and through simulation are closely matched, with minor differences due to practical effects in simulation.
+Thus, the aim of determining minimum received power for a given Q-factor is successfully achieved and validated
 
 ---
